@@ -2,6 +2,8 @@
 
 <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN5ZmpscnNzZHYyYWVkOTV4cmN3czcwN3JjNGl3OHh4Mnh2MmdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2RiU1RUjyh4C4/giphy.gif" width="320px" alt="Gatito hipnotizado con PC"/>
 
+---
+
 ### 🤓 Un poco sobre mí
 
 - 🎓 **Formación:** Bachiller en Informática con especialización en idiomas Inglés y Alemán. Actualmente cursando Ingeniería en Informática en UADE y Traductorado de Alemán en el IES en Lenguas Vivas "Juan Ramón Fernández".
