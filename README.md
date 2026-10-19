@@ -1,12 +1,13 @@
 # ¡Hola, mundo! 👋 Soy Tiara Menendez Mojana
 
-<p align="center"> <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="320px" alt="Gato tipeando rápido" /> <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="320px" alt="Gato programando en laptop" /> </p>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN5ZmpscnNzZHYyYWVkOTV4cmN3czcwN3JjNGl3OHh4Mnh2MmdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2RiU1RUjyh4C4/giphy.gif" width="320px" alt="Gatito hipnotizado con PC"/>
 
 ### 🤓 Un poco sobre mí
 
-- 🎓 **Formación:** Bachiller en Informática. Actualmente cursando Ingeniería en Informática y Traductorado de Alemán.
+- 🎓 **Formación:** Bachiller en Informática con especialización en idiomas Inglés y Alemán. Actualmente cursando Ingeniería en Informática en UADE y Traductorado de Alemán en el IES en Lenguas Vivas "Juan Ramón Fernández".
 - 🎯 **Enfoque actual:** Profundizando en fundamentos de programación, estructuras de datos y lógica de desarrollo.
 - 🚀 **En misión de:** Llenar de cuadritos verdes mi perfil de GitHub este año y construir mis primeros proyectos.
+- 🤝 **Participación activa:** Frecuento espacios de la comunidad dev, conferencias de tecnología y meetups locales. Si hay debate técnico, café o stickers, probablemente ande cerca.
 
 ---
 
@@ -23,7 +24,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
