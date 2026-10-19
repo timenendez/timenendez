@@ -1,5 +1,7 @@
 # ¡Hola, mundo! 👋 Soy Tiara Menendez Mojana
 
+<p align="center"> <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="320px" alt="Gato tipeando rápido" /> <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="320px" alt="Gato programando en laptop" /> </p>
+
 ### 🤓 Un poco sobre mí
 
 - 🎓 **Formación:** Bachiller en Informática. Actualmente cursando Ingeniería en Informática y Traductorado de Alemán.
